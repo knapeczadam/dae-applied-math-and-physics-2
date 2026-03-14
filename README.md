@@ -83,8 +83,3 @@ If you’ve ever wondered *why the math matters* — this is the semester where 
 
 ### ⚖️ License
 This repository is licensed under the **MIT License** — feel free to explore, reference, or reuse what you find valuable.
-
----
-
-*Crafted with logic, curiosity, and a few too many vector diagrams ➡️  
-— Ádám*
